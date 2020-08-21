@@ -2,7 +2,7 @@
 
 Compress your output file
 
-
+npm i webpack_min_zip
 
 # Usage
 
